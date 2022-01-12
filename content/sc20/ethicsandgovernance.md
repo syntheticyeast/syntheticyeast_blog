@@ -1,6 +1,6 @@
 ---
 title: "Ethics & Governance"
-featured_image: '../images/final_copy-2.png'
+featured_image: '/images/final_copy-2.png'
 description: ""
 ---
 

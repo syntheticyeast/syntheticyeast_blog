@@ -1,6 +1,6 @@
 ---
 title: "Sc2.0 Data"
-featured_image: '../images/final_copy-2.png'
+featured_image: '/images/final_copy-2.png'
 description: ""
 ---
 
