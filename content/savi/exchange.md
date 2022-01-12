@@ -1,0 +1,15 @@
+---
+title: "Exchange activities, mentorship, and training"
+featured_image: '../images/final_copy-2.png'
+description: ""
+---
+
+A variety of mentorship and training experiences, both virtual and physical, have taken place with SAVI support.
+
+The Boeke group, now located at NYU (synI, synIII, synIV, synVI, synVIII, synIX), has developed an ‘Sc2.0 Starter Package’ for distribution to all groups building synthetic chromosomes. This document details protocols relevant to the incorporation of synthetic DNA into yeast cells starting from ~10kb, specifically focusing on the workflow to integrate the first three megachunks of synVI. If desired, groups in the consortium may obtain the physical reagents to carry out these experiments in their own lab space. In this way, in advance of beginning construction of their assigned synthetic chromosomes, each group may perfect the implementation of these protocols and practice incorporating synthetic DNA in yeast. The combination of virtual and physical training has proven instrumental for multiple groups in the consortium to gain critical experience in Sc2.0 synthetic chromosome construction workflow.
+
+The Boeke group also serves as a general ‘resource hub’, providing remote mentorship to all consortium members actively building synthetic chromosomes. We maintain open lines of communication with all Sc2.0 researchers, tracking progress and technical difficulties, and provide help as necessary given on our experience in completing synIII and constructing multiple additional synthetic chromosomes.
+
+In the spring of 2013, two graduate students from Tianjin University (synV and synX), Quihui Lin and Bin Jia, spent ~6 months at JHU working in the lab of Dr. Boeke and the JHU Build-A-Genome (B-A-G) lab. Quihui and Bin brought with them expertise developed in the B-A-G China course and helped to implement a new ‘minichunk workflow’ in the JHU B-A-G class. Moreover, this exchange visit has grown into a deeper collaborative effort to develop methodologies and protocols for hierarchical assembly of synthetic DNA; a manuscript describing a hierarchical assembly strategy is now in preparation. This work will be useful for the Sc2.0 community as well as the greater synthetic biology community. Moving forward, in 2014 we expect additional students and postdocs from Tianjin to visit the Boeke lab at NYU, which will serve to broaden the collaborative effort between these two groups.
+
+Applicants from partner institutions interested in trainee opportunities at NYU or JHU are encouraged to contact Dr. Boeke with lead time of at least 6-9 months. Trainee opportunities typically last at least 12 months. A written inter-institutional agreement between the host institution and the partner institution must be in place before a traineeship can be considered.

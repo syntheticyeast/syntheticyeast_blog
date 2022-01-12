@@ -1,0 +1,15 @@
+---
+title: "Methodology"
+featured_image: '../images/final_copy-2.png'
+description: ""
+tags:
+---
+The strategy to build the Sc2.0 genome is based on a hierarchical assembly plan devised specifically for this project. Building blocks (~750bp) are assembled into minichunks (~3kb), which are assembled into into chunks (~10kb), which are subsequently assembled into megachunks (30-50kb) that can finally be introduced into yeast to replace the corresponding wild type sequence.
+
+Here we will describe the design and workflow associated with assembling chunks into megachunks and yeast transformation.
+
+We typically integrate ~30-60kb, or 3-6 x 10kb chunks, of synthetic DNA at a time into the yeast genome. The termini of each 10kb chunk encode restriction enzyme sites that enable directional assembly of chunks into so-called ‘megachunks’ by in vitro ligation.  The restriction sites are incorporated into the synthetic chromosome sequence during the design process. Also at this final step the rightmost terminus of every right end chunk (from left to right) has a selectable marker (e.g. URA3) embedded within it (Figure 1A). Thus, three (to six) chunks are assembled into a megachunk by ligation and subsequently transformed into yeast cells, exploiting homologous recombination in vivo to replace the corresponding native sequence, and the embedded selectable marker serves as the selection in the integrative transformation. The integration of the leftmost megachunk overwrites a kanMX cassette previously introduced into the native chromosome sequence for negative selection purposes. As each subsequent megachunk is incorporated, the auxotrophic marker used in the prior round is eliminated by recombination, and selection is imposed for a second selectable marker (e.g. LEU2) (Figure 1B). In this way, the remainder of the synthetic chromosome can be assembled in vivo, with alternating selection for URA3 and LEU2 markers. In addition to monitoring the loss and gain of auxotrophic markers, we confirm integration of synthetic DNA and loss of native sequence with PCRtags, synonymously recoded sequences that allow selective amplification of synthetic or native DNA, which serve as ‘watermarks’ for synthetic DNA throughout all synthetic chromosomes.
+
+10kb is an optimal size for each chunk as this amount of DNA can be synthesized relatively quickly and upon completion of three (to five) chunks, we can immediately proceed with the ligation and integration of the megachunk.  Thus, synthesis and integration can proceed in parallel. Another advantage of this strategy is that there is a built-in “mapping” functionality that allows us to identify and redesign any segment that might confer slow growth or lethality. The hierarchical nature of our overall synthesis strategy means that redesigning specific regions is facilitated.
+
+Of course as current DNA synthesis technologies can readily produce synthetic DNA fragments in the minichunk and chunk range, one option is to outsource the production of DNA. Alternatively, the Build-A-Genome course can be implemented as a less costly means of synthetic DNA production.
