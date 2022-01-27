@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/syntheticyeast/syntheticyeast_update.github.io.git
+	url = https://github.com/syntheticyeast/syntheticyeast.github.io.git
 	branch = main
 [submodule "themes/ananke"]
 	path = themes/ananke
