@@ -60,5 +60,6 @@ table th:nth-of-type(2) {
 | ![BGI; China](../images/bgi-china.jpg) | **BGI; China** <br /> *chromosome II, VII, XIII* |
 | ![Ellis Lab at ICL](../images/ellis-lab.jpg) | **Ellis Lab at ICL** <br /> *chromosome XI* |
 | ![Boeke Lab at NYU](../images/boeke-lab.jpeg) | **Boeke Lab at NYU** <br /> *chromosome I, IV, VI, VIII, IX* |
+| ![Bader Lab at JHU](../images/bader_photo.jpg) | **Bader Lab at JHU** <br /> *design and workflow* |
 | ![The BAG team at JHU](../images/bag-team-jhu.jpg) | **The BAG team at JHU** <br /> *chromosome IV, VIII* |
 | ![The BAG team at Loyola University Maryland](../images/bag-team-loyola.jpg) | **The BAG team at Loyola University Maryland** <br /> *chromosome IV* |
