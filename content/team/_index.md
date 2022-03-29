@@ -42,13 +42,14 @@ table th:nth-of-type(2) {
 | ![Debra JH Mathews](../images/mathews.jpg) | **Debra JH Mathews** <br /> *Assistant Director for Science Programs BERMAN INSTITUTE OF BIOETHICS, Assistant Professor, Pediatrics Johns Hopkins University* |
 | ![Romain Koszul](../images/koszul.jpg) | **Romain Koszul** <br /> *Group leader, Institut Pasteur* |
 | ![Lars Steinmetz](../images/steinmetz.jpeg) | **Lars Steinmetz** <br /> *Associate Head of Unit and Senior Scientist, EMBL Heidelberg* |
-| ![Yingjin Yuan](../images/yang.jpg) | **Yingjin Yuan** <br /> *Professor, Tianjin University, China* |
+| ![Yingjin Yuan](../images/yuan.jpg) | **Yingjin Yuan** <br /> *Professor, Tianjin University, China* |
 | ![Patrick Yizhi Cai](../images/cai.jpg) | **Patrick Yizhi Cai** <br /> *Sc2.0 Project International Coordinator, University of Manchester* |
 | ![Narayana “Visu” Annaluru](../images/annaluru.jpg) | **Narayana “Visu” Annaluru** <br /> *Research Scientist, DuPont Pioneer, Johnston, Iowa, USA* |
 | ![Heloise Muller](../images/heloise.jpeg) | **Heloise Muller** <br /> *Post-doctoral fellow, the Institut Pasteur* |
 | ![Leslie Mitchell](../images/mitchell.jpg) | **Leslie Mitchell** <br /> *Postdoctoral Fellow, Boeke Lab, NYU Langone Medical Center* |
 | ![Giovanni Stracquadanio](../images/stracquadanio.png) | **Giovanni Stracquadanio** <br /> *Senior Lecturer in Synthetic Biology, School of Biological Sciences at the University of Edinburgh, UK* |
 | ![Kun Yang](../images/yang.jpg) | **Kun Yang** <br /> *Postdoctoral Fellow at Department of Biomedical Engineering, Johns Hopkins* |
+| ![Jitong Cai](../images/jcai.jpeg) | **Jitong Cai** <br /> *PhD student, Bader Lab, Johns Hopkins* |
 
 ## Group
 | ![Cai Lab at University of Edinburgh](../images/cailab_groupshot.jpg) | **Cai Lab at University of Edinburgh** <br /> *chromosome VII and tRNA neochromosome* |
