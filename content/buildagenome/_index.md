@@ -1,6 +1,5 @@
 ---
 title: "Build-a-Genome"
-date: 2021-11-11T07:19:25-05:00
 draft: true
 ---
 

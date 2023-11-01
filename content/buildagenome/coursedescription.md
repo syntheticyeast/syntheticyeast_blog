@@ -1,5 +1,5 @@
 ---
-title: "Coursedescription"
+title: "Course Description"
 date: 2021-11-11T07:22:15-05:00
 draft: true
 ---
