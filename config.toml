@@ -1,4 +1,4 @@
-title = 'Synthetic Yeast 2.0'
+title = 'Synthetic Yeast: Sc2.0'
 baseURL = 'https://syntheticyeast.github.io/'
 languageCode = 'en-us'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]

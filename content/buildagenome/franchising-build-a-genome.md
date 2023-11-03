@@ -6,6 +6,13 @@ draft: true
 
 # Franchising Build a Genome
 
-Franchises of the Build-A-Genome course are now operational. In the United States, B-A-G is taught at Loyola University (Baltimore, MD) and courses are being planned at North Crolina State University and Hartwick College.  In China, Tianjin University has used the B-A-G China course to build synthetic DNA corresponding to chromosomes syn5 and syn10.
+The Build-A-Genome course has been franchised at multiple institutions. In the
+United States, B-A-G is taught at Loyola University (Baltimore, MD)
+and Hartwick College, 
+and courses are being planned at North Carolina State University. 
+In China, Tianjin University has used the B-A-G China course to build
+synthetic DNA corresponding 
+to chromosomes syn5 and syn10.
 
-If you are interested in discussing a franchise, please contact Dr. Karen Zeller kzeller<AT>;jhmi.edu
+If you are interested in leading a B-A-G course, the [BAG
+Network](https://qubeshub.org/community/groups/bag/) can provide information.

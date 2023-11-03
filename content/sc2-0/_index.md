@@ -1,10 +1,10 @@
 ---
-title: "Synthetic Yeast 2.0"
+title: "Sc2.0"
 featured_image: '/images/final_copy-2.png'
-description: ""
+description: "Saccharomyces cerevisiae 2.0"
 ---
 
-Welcome to Sc2.0, the synthetic yeast genome web site.
+### Welcome to the website for the Sc2.0 synthetic yeast genome project.
 
 This is the site where you will learn about our ongoing project to synthesize the genome – from oligos to chromosomes, and the design features of the new version of Saccharomyces cerevisiae which we fondly refer to as Sc2.0.
 
