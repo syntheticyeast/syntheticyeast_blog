@@ -4,11 +4,12 @@ featured_image: '/images/final_copy-2.png'
 description: ""
 ---
 ## Leadership
-**Director:** Jef Boeke
+**Director:** Jef Boeke (NYU)
 
-**Project International Coordinator:** Patrick Cai
+**Project International Coordinator:** Patrick Cai (Manchester)
 
-**Executive Committee:** Jef Boeke, Debra Mathews, Joel Bader and Tim Trevan, Chrome Biorisk Management
+**Executive Committee:** Jef Boeke (NYU), Debra Mathews (NYU), Joel
+Bader (JHU), Tim Trevan (CHROME Biorisk Management)
 
 ## Faculty and Staff
 <!-- | ![alt text](../images/boeke.jpg) | Dr. Jef Boeke; Professor, Department of Biochemistry and Molecular Pharmacology; Director, Institute for Systems Genetics, NYU Langone Health |

@@ -1,20 +1,33 @@
 ---
 title: "Data and Finished Chromosomes"
-featured_image: '/images/final_copy-2.png'
+featured_image: '/images/chr_assignments.jpg'
 description: ""
 ---
 
-We have successfully synthesized seven chromosomes. Learn more about
-the design and experimental characterization of each finished chromosomes.
+Learn more about the design and experimental characterization of each finished
+chromosomes. The GFF3 version includes the annotation and the FASTA
+sequence record. The WT version is for the S288c reference strain and
+the synthetic version is the final design target.
 
-- synII: [Deep functional analysis of synII, Shen et al 2017 Science](https://www.science.org/doi/full/10.1126/science.aaf4791)
-- synIII: [Total synthesis of a functional designer eukaryotic
-  chromosome, Annaluru et al 2014 Science](https://www.science.org/doi/full/10.1126/science.1249252)
-- synV: ["Perfect" designer chromosome V, Xie et al 2017 Science](https://www.science.org/doi/full/10.1126/science.aaf4704)
-- synVI: [synVI and beyond, Mitchell et al Science 2017](https://www.science.org/doi/full/10.1126/science.aaf4831) 
-- synIXR: [Synthetic chromosome arms function in yeast, Dymond et al
-  2011 Nature](https://www.nature.com/articles/nature10403)
-- synX: [Chemically synthetized chromosome X, Wu et al 2017 Science](https://www.science.org/doi/full/10.1126/science.aaf4706)
-- synXII: [Engineering the ribosomal DNA in a megabase synthetic
-  chromosome, Zhang et al 2017 Science](https://www.science.org/doi/full/10.1126/science.aaf3981)
+| Chromosome |   Teams    | &nbsp;&nbsp;WT GFF3&nbsp;&nbsp; | Synthetic GFF3 |  Publication |  
+| :-----------:  | :-------:    |  :---------------:     | --------  |  --------- |  
+|      I           |    NYU      |    230 MB  [chr01](/gff3/yeast_chr01_0_00.gff)              | 181 MB  [syn01](/gff3/yeast_chr01_3_26.gff)        |        (synI to come)    |  
+|      II           |    Edinburgh + BGI      |    813 MB  [chr02](/gff3/yeast_chr02_0_00.gff)      | 770 MB   [syn02](/gff3/yeast_chr02_3_27.gff)        |        [Deep functional analysis of synII, Shen et al 2017 Science](https://www.science.org/doi/full/10.1126/science.aaf4791)    |  
+|      III           |    JHU      |    317 MB [chr03](/gff3/yeast_chr03_0_00.gff)                   | 272 MB  [syn03](/gff3/yeast_chr03_3_41.gff)          |        [Total synthesis of a functional designer eukaryotic chromosome, Annaluru et al 2014 Science](https://www.science.org/doi/full/10.1126/science.1249252)    |  
+|      IV           |    NYU + JGI      |    1532 MB   [chr04](/gff3/yeast_chr04_0_00.gff)                     | 1455 MB [syn04](/gff3/yeast_chr04_3_72.gff)           |        synIV to come    |  
+|      V           |    Tianjin      |    577 MB    [chr05](/gff3/yeast_chr05_0_00.gff)                    | 536 MB  [syn05](/gff3/yeast_chr05_3_44.gff)          |        ["Perfect" designer chromosome V, Xie et al 2017 Science](https://www.science.org/doi/full/10.1126/science.aaf4704)    |  
+|      VI           |    JHU + NYU      |    270 MB   [chr06](/gff3/yeast_chr06_0_00.gff)                     | 243 MB   [syn06](/gff3/yeast_chr06_3_28.gff)         |        [synVI and beyond, Mitchell et al Science 2017](https://www.science.org/doi/full/10.1126/science.aaf4831)     |  
+|      VII           |    Edinburgh + BGI      |    1091 MB    [chr07](/gff3/yeast_chr07_0_00.gff)                    | 1029 MB  [syn07](/gff3/yeast_chr07_3_61.gff)          |        synVII to come    |  
+|      VIII           |    NYU      |    563 MB    [chr08](/gff3/yeast_chr08_0_00.gff)                    | 507 MB   [syn08](/gff3/yeast_chr08_3_36.gff)         |        synVIII to come    |  
+|      IX           |    JHU      |    440 MB       [chr09](/gff3/yeast_chr09_0_00.gff)                 | 406 MB   [syn09](/gff3/yeast_chr09_3_55.gff)         |        IXR: [Synthetic chromosome arms function in yeast, Dymond et al 2011 Nature](https://www.nature.com/articles/nature10403)    |  
+|      X           |    Tianjin      |    746 MB    [chr10](/gff3/yeast_chr10_0_00.gff)                    | 707 MB  [syn10](/gff3/yeast_chr10_3_42.gff)          |        [Chemically synthetized chromosome X, Wu et al 2017 Science](https://www.science.org/doi/full/10.1126/science.aaf4706)    |  
+|      XI           |    Imperial College      |    667 MB   [chr11](/gff3/yeast_chr11_0_00.gff)                     | 660 MB  [syn11](/gff3/yeast_chr11_3_39.gff)          |        synXI to come    |  
+|      XII           |    Tsinghua      |    1078 MB    [chr12](/gff3/yeast_chr12_0_00.gff)                    | 999 MB   [syn12](/gff3/yeast_chr12_3_41.gff)         |         [Engineering the ribosomal DNA in a megabase synthetic chromosome, Zhang et al 2017 Science](https://www.science.org/doi/full/10.1126/science.aaf3981)
+    |  
+|      XIII           |    BGI      |    924 MB   [chr13](/gff3/yeast_chr13_0_00.gff)                     | 884 MB    [syn13](/gff3/yeast_chr13_3_44.gff)        |        synXIII to come    |  
+|      XIV           |    Macquarie + Australian Wine Research Inst      |    784 MB  [chr14](/gff3/yeast_chr14_0_00.gff)          | 753 MB   [syn14](/gff3/yeast_chr14_3_30.gff)         |        synIV to come    |  
+|      XV           |    National U Singapore      |    1091 MB    [chr15](/gff3/yeast_chr15_0_00.gff)                    | 1048 MB   [syn15](/gff3/yeast_chr15_3_46.gff)    |        synXV to come    |  
+|      XVI           |    Macquarie      |    948 MB   [chr16](/gff3/yeast_chr16_0_00.gff)          | 903 MB  [syn16](/gff3/yeast_chr16_3_44.gff)      |        synXVI to come    |  
+|      neo-tRNA  |        Edinburgh + Manchester      |                            |                 |       neo-tRNA to come           |  
+
 

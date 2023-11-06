@@ -1,6 +1,6 @@
 ---
 title: "Software"
-date: 2021-11-11T07:35:08-05:00
+featured_image: '/images/bityeast.png'
 draft: true
 ---
 
