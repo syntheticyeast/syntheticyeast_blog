@@ -1,5 +1,5 @@
 ---
-title: "Sc2.0 Data and Finished Chromosomes"
+title: "Data and Finished Chromosomes"
 featured_image: '/images/final_copy-2.png'
 description: ""
 ---

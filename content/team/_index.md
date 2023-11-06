@@ -45,7 +45,7 @@ table th:nth-of-type(2) {
 | ![Yingjin Yuan](../images/yuan.jpg) | **Yingjin Yuan** <br /> *Professor, Tianjin University, China* |
 | ![Patrick Yizhi Cai](../images/cai.jpg) | **Patrick Yizhi Cai** <br /> *Sc2.0 Project International Coordinator, University of Manchester* |
 | ![Narayana “Visu” Annaluru](../images/annaluru.jpg) | **Narayana “Visu” Annaluru** <br /> *Research Scientist, DuPont Pioneer, Johnston, Iowa, USA* |
-| ![Heloise Muller](../images/heloise.jpeg) | **Heloise Muller** <br /> *Post-doctoral fellow, the Institut Pasteur* |
+| ![Heloise Muller](../images/heloise.jpg) | **Heloise Muller** <br /> *Post-doctoral fellow, the Institut Pasteur* |
 | ![Leslie Mitchell](../images/mitchell.jpg) | **Leslie Mitchell** <br /> *Postdoctoral Fellow, Boeke Lab, NYU Langone Medical Center* |
 | ![Giovanni Stracquadanio](../images/stracquadanio.png) | **Giovanni Stracquadanio** <br /> *Senior Lecturer in Synthetic Biology, School of Biological Sciences at the University of Edinburgh, UK* |
 | ![Kun Yang](../images/yang.jpg) | **Kun Yang** <br /> *Postdoctoral Fellow at Department of Biomedical Engineering, Johns Hopkins* |
