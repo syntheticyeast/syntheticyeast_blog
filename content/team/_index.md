@@ -11,6 +11,11 @@ description: ""
 **Executive Committee:** Jef Boeke (NYU), Debra Mathews (NYU), Joel
 Bader (JHU), Tim Trevan (CHROME Biorisk Management)
 
+**Contact:** jef  &lt;dot&gt; boeke &lt;at&gt; nyulangone &lt;dot&gt;
+org  
+joel  &lt;dot&gt; bader &lt;at&gt; jhu &lt;dot&gt; edu  
+
+
 ## Faculty and Staff
 <!-- | ![alt text](../images/boeke.jpg) | Dr. Jef Boeke; Professor, Department of Biochemistry and Molecular Pharmacology; Director, Institute for Systems Genetics, NYU Langone Health |
 | ----- | --- | -->
