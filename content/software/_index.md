@@ -21,7 +21,8 @@ Scientists currently enjoy unprecedented access to custom genetic constructs thr
 ### BioStudio: Design and visualization of synthetic genomes
 
   Publication: [Richardson et al 2017 Science](https://www.science.org/doi/abs/10.1126/science.aaf4557)  
-  Software: [MetaCPAN repository](https://metacpan.org/dist/Bio-BioStudio)
+  Software: [MetaCPAN repository](https://metacpan.org/dist/Bio-BioStudio)  
+  Update to installation notes:  [BioStudio Update]({{<  ref  "/content/software/biostudio.md" >}})
 
 ### CloneQC: Sequence verification for synthetic biology
 
