@@ -13,6 +13,8 @@ the synthetic version is the final design target.
 
 ![status](/images/status-2023-1-cropped.pdf)
 
+**Reference sequence (17 MB sequence plus annotation)**: [Saccharomyces cerevisiae S288C genome (version=R64-2-1)](/gff3/saccharomyces_cerevisiae.gff) created by the [Saccharomyces Genome Database](http://www.yeastgenome.org/)
+
 **Detailed Status (Nov 2023)**
 
 | Chromosome |   Teams    | &nbsp;&nbsp;WT GFF3&nbsp;&nbsp; | Synthetic GFF3 |  Publication |  
