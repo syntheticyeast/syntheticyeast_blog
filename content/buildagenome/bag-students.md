@@ -8,9 +8,19 @@ draft: true
 
 Below are pictures of some of our Build-a-Genome students.
 
+
+### Johns Hopkins University inagual Build-a-Genome class
+
+![image](/images/bag-firstclass.jpg)
+
+**Inaugural members**: Raghav Ramachandran  (BME), James DiCarlo (ChemBE),
+Allison Suarez  (ChemBE), Alyson Nickols (ChemBE), Tejasvi Niranjan
+(Biology), Ben Lin (BME), John Chung  (ChemBE), Avi Schuldenfrei
+(UMBC), with Sc2.0 director Jef Boeke and course instructor Jessica Dymond
+
 ### Johns Hopkins University Build-a-Genome
 
-![image](/images/bag-team-jhu.jpg) 
+![image](/images/bag-collage.png) 
 
 ### Loyola University Maryland Build-a-Genome
 

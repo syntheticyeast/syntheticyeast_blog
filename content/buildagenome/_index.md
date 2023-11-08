@@ -1,6 +1,6 @@
 ---
 title: "Build-a-Genome"
-featured_image: '/images/design9r.png'
+featured_image: '/images/bag-collage.png'
 draft: true
 ---
 
