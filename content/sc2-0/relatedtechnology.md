@@ -1,6 +1,6 @@
 ---
 title: "SCRaMbLE and Sc2.0-Related Technology"
-featured_image: '/images/scramblegram.pdf'
+featured_image: '/images/scramblegram.png'
 description: ""
 ---
 

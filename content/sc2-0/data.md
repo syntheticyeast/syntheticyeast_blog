@@ -1,6 +1,6 @@
 ---
 title: "Data and Finished Chromosomes"
-featured_image: '/images/status-2023-1-cropped.pdf'
+featured_image: '/images/status-2023-1-cropped.png'
 description: ""
 ---
 
@@ -8,6 +8,7 @@ Learn more about the design and experimental characterization of each finished
 chromosomes. The GFF3 version includes the annotation and the FASTA
 sequence record. The WT version is for the S288c reference strain and
 the synthetic version is the final design target.
+<!--more-->
 
 **Overview**
 

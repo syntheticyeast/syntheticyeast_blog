@@ -1,6 +1,6 @@
 ---
 title: "SAVI"
-featured_image: '/images/scramblegram.pdf'
+featured_image: '/images/scramblegram.png'
 description: ""
 ---
 
