@@ -12,7 +12,7 @@ the synthetic version is the final design target.
 
 **Overview**
 
-![status](/images/status-2023-1-cropped.pdf)
+![status](/images/status-2023-1-cropped.png)
 
 **Reference sequence (17 MB sequence plus annotation)**: [Saccharomyces cerevisiae S288C genome (version=R64-2-1)](/gff3/saccharomyces_cerevisiae.gff) created by the [Saccharomyces Genome Database](http://www.yeastgenome.org/)
 
